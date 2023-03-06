@@ -1,8 +1,11 @@
 # Kaubenia Vitali
 
+![am](/img/me.jpg "me")
+
 ## About me
 
-I am great at working in a team. I love difficult tasks. In the future I want to become a web developer and work on interesting projects.
+I am great at working in a team.
+I love difficult tasks. In the future I want to become a web developer and work on interesting projects.
 
 ## Aducation
 
@@ -33,7 +36,7 @@ function validatePIN(pin) {
 
 ## Experience
 
--   CV
+-   https://GITHUB-USERNAME.github.io/rsschool-cv/cv
 
 ## English
 

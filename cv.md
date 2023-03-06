@@ -36,7 +36,7 @@ function validatePIN(pin) {
 
 ## Experience
 
--   https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+-   https://bentrend.github.io/rsschool-cv/cv
 
 ## English
 

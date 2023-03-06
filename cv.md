@@ -1,6 +1,6 @@
 # Kaubenia Vitali
 
-![am](/img/me.jpg "me")
+![am](./img/me.jpg "me")
 
 ## About me
 

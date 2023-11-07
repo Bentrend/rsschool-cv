@@ -26,7 +26,7 @@ function validatePIN(pin) {
 }
 ```
 ## Experience
--   https://bentrend.github.io/rsschool-cv/cv
+-   [cv.md](https://bentrend.github.io/rsschool-cv/cv)
 ## English
 -   A0-A1
 ## Contacts

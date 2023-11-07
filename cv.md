@@ -1,5 +1,5 @@
 # Kaubenia Vitali Leonidovich
-! [portrait](./img/portait.jpg)
+![portrait](./img/portait.jpg)
 ## About me
 ## Aducation
 ## Skills
